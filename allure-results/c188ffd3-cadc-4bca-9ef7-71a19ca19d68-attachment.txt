@@ -1,0 +1,4 @@
+User data from Excel: [
+  { username: 'rajat', password: 'rajat@123' },
+  { username: 'rahul', password: 'rahul@123' }
+]
