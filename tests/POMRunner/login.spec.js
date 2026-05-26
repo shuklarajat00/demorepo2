@@ -18,4 +18,5 @@ console.log("Password: " + password);
     await loginPage.enterPassword(password);
     await loginPage.clickLogin();
     page.pause();
+    console.log("Login test completed");
 });
